@@ -1,0 +1,2077 @@
+{
+    "page": 1,
+    "pages": 1,
+    "items": 724,
+    "data": [
+        {
+            "id": "d8ff4e82a7fe4b7f9158985da66d4496",
+            "status": "active",
+            "source": "erudus",
+            "is_complete": 1,
+            "product_code": "73091",
+            "case_label_name": "Heinz Sauce O Mat Ketchup (3) 2.5L",
+            "product_name": "Ketchup",
+            "product_description": "Tomato Ketchup",
+            "supplier_id": 222,
+            "supplier_name": "H.J. Heinz",
+            "suppliers_product_code": "72159800, 72159801, 76013959",
+            "brand_name": "H.J. Heinz",
+            "food_drink": "Food",
+            "category": "Ambient",
+            "generic_type": "Sauces",
+            "traded_unit_gtin": "8715700534459",
+            "components": [
+                {
+                    "id": "cae4db564bad48cfb0dd27089c54ecb0",
+                    "component_name": null,
+                    "suppliers_component_code": null,
+                    "internal_gtin": "8715700534459",
+                    "ingredients": "Tomatoes (148g per 100g Ketchup), Spirit Vinegar, Sugar, Salt, Spice & Herb Extracts (contain CELERY), Spice.",
+                    "allergens": {
+                        "contains_gm_protein": "No",
+                        "contains_celery_celeriac": "Yes",
+                        "contains_lupin": "No",
+                        "contains_eggs": "No",
+                        "contains_fish": "No",
+                        "contains_soybeans": "No",
+                        "contains_milk": "No",
+                        "contains_mustard": "No",
+                        "contains_peanuts": "No",
+                        "contains_sesame_seeds": "No",
+                        "contains_crustacea": "No",
+                        "contains_molluscs": "No",
+                        "contains_tree_nuts": "No",
+                        "contains_alomond_nuts": "No",
+                        "contains_hazelnut_nuts": "No",
+                        "contains_walnut_nuts": "No",
+                        "contains_cashew_nuts": "No",
+                        "contains_pecan_nuts": "No",
+                        "contains_brazil_nuts": "No",
+                        "contains_pistachio_nuts": "No",
+                        "contains_macadamia_nuts": "No",
+                        "contains_queensland_nuts": "No",
+                        "contains_cereal": "No",
+                        "contains_wheat": "No",
+                        "contains_rye": "No",
+                        "contains_barley": "No",
+                        "contains_oats": "No",
+                        "contains_spelt": "No",
+                        "contains_kamut": "No",
+                        "gluten_claim": "Yes",
+                        "contains_hydro_veg": "No",
+                        "contains_palm_oil": "No",
+                        "contains_sulphur_dioxide": "No",
+                        "sulphur_dioxide_sulphites_concentration": {
+                            "value": 0.0,
+                            "unit": "mg/kg"
+                        },
+                        "allergen_statement": "",
+                        "contains_gluten": "-"
+                    },
+                    "artificial": {
+                        "artificial_antioxidants": "No",
+                        "artificial_colours": "No",
+                        "artifical_flavourings": "No",
+                        "artifical_flavour_enhancers": "No",
+                        "artifical_preservatives": "No",
+                        "artifical_sweeteners": "No"
+                    },
+                    "diets": {
+                        "vegetarian_suitable": "Yes",
+                        "vegan_suitable": "Yes",
+                        "lactose_intolerance_suitable": "No",
+                        "coeliacs_suitable": "Yes",
+                        "halal_approved": "Yes",
+                        "kosher_approved": "Yes",
+                        "hfss_product": null
+                    },
+                    "nutrients": {
+                        "serving": {
+                            "value": null,
+                            "unit": "g or ml"
+                        },
+                        "pieces_slices_100g": {
+                            "value": 0.0,
+                            "unit": "Pieces"
+                        },
+                        "count_per_pack": null,
+                        "cal_100_kj": {
+                            "value": 435.0,
+                            "unit": "kJ"
+                        },
+                        "cal_100_kcal": {
+                            "value": 102.0,
+                            "unit": "kcal"
+                        },
+                        "fat_100": {
+                            "value": 0.1,
+                            "unit": "g"
+                        },
+                        "sat_fat_100": {
+                            "value": 0.01,
+                            "unit": "g"
+                        },
+                        "mono_fat_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "poly_fat_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "trans_fats_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "carb_100": {
+                            "value": 23.2,
+                            "unit": "g"
+                        },
+                        "sugar_carb_100": {
+                            "value": 22.8,
+                            "unit": "g"
+                        },
+                        "polyols_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "starch_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "fibre_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "protein_100": {
+                            "value": 1.2,
+                            "unit": "g"
+                        },
+                        "salt_100": {
+                            "value": 1.8,
+                            "unit": "g"
+                        },
+                        "sodium_100": {
+                            "value": 0.7,
+                            "unit": "g"
+                        },
+                        "vitamin_a_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "vitamin_c_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "folate_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "calcium_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "iron_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "zinc_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "chol_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "non_milk_extrinsic_sugars_100g": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "alcohol_strength_per_vol": {
+                            "value": null,
+                            "unit": "% Vol"
+                        },
+                        "fat_percentage_dry": {
+                            "value": null,
+                            "unit": "g"
+                        }
+                    },
+                    "country_of_origin": {
+                        "country": "Other",
+                        "details": "Netherlands"
+                    },
+                    "derived_values": {
+                        "gluten_free": "Yes",
+                        "formatted_ingredients": "Tomatoes (148g per 100g Ketchup), Spirit Vinegar, Sugar, Salt, Spice & Herb Extracts (contain <b>CELERY</b>), Spice."
+                    }
+                }
+            ],
+            "last_updated_by_supplier": "2023-09-13",
+            "last_updated": "2023-09-13",
+            "uri": "https://services.erudus.com/api/public/v1/products/d8ff4e82a7fe4b7f9158985da66d4496"
+        },
+        {
+            "id": "a17e125e8b78406f83330e7b7ab50fd4",
+            "status": "active",
+            "source": "erudus",
+            "is_complete": 1,
+            "product_code": "1928",
+            "case_label_name": "(20) FRZ 283g Steak & Stilton",
+            "product_name": "Steak & Stilton",
+            "product_description": "Fresh potato and onion combined with steak and stilton encased in a pre-glazed, hand crimped, pastry case.  Unbaked.",
+            "supplier_id": 462,
+            "supplier_name": "Proper Cornish Food Company",
+            "suppliers_product_code": "47555",
+            "brand_name": "Proper Cornish Food Company",
+            "food_drink": "Food",
+            "category": "Frozen",
+            "generic_type": "Pies, Sausages Rolls, Savouries",
+            "traded_unit_gtin": "05023281475553",
+            "components": [
+                {
+                    "id": "046ca7a37e4d41e6bc9644203dd0570f",
+                    "component_name": null,
+                    "suppliers_component_code": null,
+                    "internal_gtin": null,
+                    "ingredients": "WHEAT Flour (WHEAT Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Potato, Onion, Water, Beef (10.5%), Vegetable Margarine (Vegetable Oils and Fats [Palm], Water, Salt, Lemon Juice), Blue Stilton [MILK] (8%), White Shortening (Vegetable Oils and Fats [Palm, Rapeseed], Water, Salt, Lemon Juice), Salt, Dehydrated Potato Flake (Potato, Emulsifier [Mono and Diglycerides]), Glaze (MILK Protein, Dextrose, Vegetable Oil)",
+                    "allergens": {
+                        "contains_gm_protein": "No",
+                        "contains_celery_celeriac": "No",
+                        "contains_lupin": "No",
+                        "contains_eggs": "No",
+                        "contains_fish": "No",
+                        "contains_soybeans": "No",
+                        "contains_milk": "Yes",
+                        "contains_mustard": "No",
+                        "contains_peanuts": "No",
+                        "contains_sesame_seeds": "No",
+                        "contains_crustacea": "No",
+                        "contains_molluscs": "No",
+                        "contains_tree_nuts": "No",
+                        "contains_alomond_nuts": "No",
+                        "contains_hazelnut_nuts": "No",
+                        "contains_walnut_nuts": "No",
+                        "contains_cashew_nuts": "No",
+                        "contains_pecan_nuts": "No",
+                        "contains_brazil_nuts": "No",
+                        "contains_pistachio_nuts": "No",
+                        "contains_macadamia_nuts": "No",
+                        "contains_queensland_nuts": "No",
+                        "contains_cereal": "Yes",
+                        "contains_wheat": "Yes",
+                        "contains_rye": "No",
+                        "contains_barley": "No",
+                        "contains_oats": "No",
+                        "contains_spelt": "No",
+                        "contains_kamut": "No",
+                        "gluten_claim": "No",
+                        "contains_hydro_veg": "No",
+                        "contains_palm_oil": "Yes",
+                        "contains_sulphur_dioxide": "No",
+                        "sulphur_dioxide_sulphites_concentration": {
+                            "value": 0.0,
+                            "unit": "mg/kg"
+                        },
+                        "allergen_statement": "",
+                        "contains_gluten": "-"
+                    },
+                    "artificial": {
+                        "artificial_antioxidants": "No",
+                        "artificial_colours": "No",
+                        "artifical_flavourings": "No",
+                        "artifical_flavour_enhancers": "No",
+                        "artifical_preservatives": "No",
+                        "artifical_sweeteners": "No"
+                    },
+                    "diets": {
+                        "vegetarian_suitable": "No",
+                        "vegan_suitable": "No",
+                        "lactose_intolerance_suitable": "No",
+                        "coeliacs_suitable": "No",
+                        "halal_approved": "No",
+                        "kosher_approved": "No",
+                        "hfss_product": null
+                    },
+                    "nutrients": {
+                        "serving": {
+                            "value": null,
+                            "unit": "g or ml"
+                        },
+                        "pieces_slices_100g": {
+                            "value": null,
+                            "unit": "Pieces"
+                        },
+                        "count_per_pack": null,
+                        "cal_100_kj": {
+                            "value": 1112.0,
+                            "unit": "kJ"
+                        },
+                        "cal_100_kcal": {
+                            "value": 266.0,
+                            "unit": "kcal"
+                        },
+                        "fat_100": {
+                            "value": 15.0,
+                            "unit": "g"
+                        },
+                        "sat_fat_100": {
+                            "value": 8.2,
+                            "unit": "g"
+                        },
+                        "mono_fat_100": {
+                            "value": 2.3,
+                            "unit": "g"
+                        },
+                        "poly_fat_100": {
+                            "value": 0.2,
+                            "unit": "g"
+                        },
+                        "trans_fats_100": {
+                            "value": 0.2,
+                            "unit": "g"
+                        },
+                        "carb_100": {
+                            "value": 26.7,
+                            "unit": "g"
+                        },
+                        "sugar_carb_100": {
+                            "value": 1.1,
+                            "unit": "g"
+                        },
+                        "polyols_carb_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "starch_carb_100": {
+                            "value": 25.3,
+                            "unit": "g"
+                        },
+                        "fibre_100": {
+                            "value": 1.6,
+                            "unit": "g"
+                        },
+                        "protein_100": {
+                            "value": 7.1,
+                            "unit": "g"
+                        },
+                        "salt_100": {
+                            "value": 0.59,
+                            "unit": "g"
+                        },
+                        "sodium_100": {
+                            "value": 0.24,
+                            "unit": "g"
+                        },
+                        "vitamin_a_100g": {
+                            "value": 32.0,
+                            "unit": "µg"
+                        },
+                        "vitamin_c_100g": {
+                            "value": 3.0,
+                            "unit": "mg"
+                        },
+                        "folate_100g": {
+                            "value": 16.0,
+                            "unit": "µg"
+                        },
+                        "calcium_100g": {
+                            "value": 59.0,
+                            "unit": "mg"
+                        },
+                        "iron_100g": {
+                            "value": 0.8,
+                            "unit": "mg"
+                        },
+                        "zinc_100g": {
+                            "value": 0.8,
+                            "unit": "mg"
+                        },
+                        "chol_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "non_milk_extrinsic_sugars_100g": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "alcohol_strength_per_vol": {
+                            "value": null,
+                            "unit": "% Vol"
+                        },
+                        "fat_percentage_dry": {
+                            "value": null,
+                            "unit": "g"
+                        }
+                    },
+                    "country_of_origin": {
+                        "country": "United Kingdom",
+                        "details": "N/A"
+                    },
+                    "derived_values": {
+                        "gluten_free": "No",
+                        "formatted_ingredients": "<b>WHEAT</b> Flour (<b>WHEAT</b> Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Potato, Onion, Water, Beef (10.5%), Vegetable Margarine (Vegetable Oils and Fats [Palm], Water, Salt, Lemon Juice), Blue Stilton [<b>MILK</b>] (8%), White Shortening (Vegetable Oils and Fats [Palm, Rapeseed], Water, Salt, Lemon Juice), Salt, Dehydrated Potato Flake (Potato, Emulsifier [Mono and Diglycerides]), Glaze (<b>MILK</b> Protein, Dextrose, Vegetable Oil)"
+                    }
+                }
+            ],
+            "last_updated_by_supplier": "2023-09-12",
+            "last_updated": "2023-09-12",
+            "uri": "https://services.erudus.com/api/public/v1/products/a17e125e8b78406f83330e7b7ab50fd4"
+        },
+        {
+            "id": "76e2af7a95c642faa751902919aae9d4",
+            "status": "active",
+            "source": "erudus",
+            "is_complete": 1,
+            "product_code": "7244",
+            "case_label_name": "MAGGI BECHAMEL SAUCE 2X2KG",
+            "product_name": "MAGGI® Bechamel Sauce-2kg",
+            "product_description": "Dehydrated Bechamel sauce",
+            "supplier_id": 1172,
+            "supplier_name": "Nestle UK",
+            "suppliers_product_code": "12235960",
+            "brand_name": "Nestle UK",
+            "food_drink": "Food",
+            "category": "Ambient",
+            "generic_type": "Sauces - Dry",
+            "traded_unit_gtin": "07613031292653",
+            "components": [
+                {
+                    "id": "3e4b114641e24772a9f2d3552f246f08",
+                    "component_name": null,
+                    "suppliers_component_code": null,
+                    "internal_gtin": "7613031292646",
+                    "ingredients": "Ingredients: modified starch, WHEAT flour, palm fat, maltodextrin, skimmed MILK powder, sugar, iodised salt (salt, potassium iodate), lactose (MILK), MILK protein, palm oil, yeast extract, flavourings (MILK), acid (citric acid), salt, onion.",
+                    "allergens": {
+                        "contains_gm_protein": "No",
+                        "contains_celery_celeriac": "May Contain",
+                        "contains_lupin": "No",
+                        "contains_eggs": "May Contain",
+                        "contains_fish": "No",
+                        "contains_soybeans": "May Contain",
+                        "contains_milk": "Yes",
+                        "contains_mustard": "May Contain",
+                        "contains_peanuts": "No",
+                        "contains_sesame_seeds": "No",
+                        "contains_crustacea": "No",
+                        "contains_molluscs": "No",
+                        "contains_tree_nuts": "No",
+                        "contains_alomond_nuts": "No",
+                        "contains_hazelnut_nuts": "No",
+                        "contains_walnut_nuts": "No",
+                        "contains_cashew_nuts": "No",
+                        "contains_pecan_nuts": "No",
+                        "contains_brazil_nuts": "No",
+                        "contains_pistachio_nuts": "No",
+                        "contains_macadamia_nuts": "No",
+                        "contains_queensland_nuts": "No",
+                        "contains_cereal": "Yes",
+                        "contains_wheat": "Yes",
+                        "contains_rye": "No",
+                        "contains_barley": "No",
+                        "contains_oats": "No",
+                        "contains_spelt": "No",
+                        "contains_kamut": "No",
+                        "gluten_claim": "No",
+                        "contains_hydro_veg": "No",
+                        "contains_palm_oil": "Yes",
+                        "contains_sulphur_dioxide": "No",
+                        "sulphur_dioxide_sulphites_concentration": {
+                            "value": 0.0,
+                            "unit": "mg/kg"
+                        },
+                        "allergen_statement": "May contain traces of EGG, SOYA, CELERY and MUSTARD.",
+                        "contains_gluten": "-"
+                    },
+                    "artificial": {
+                        "artificial_antioxidants": "No",
+                        "artificial_colours": "No",
+                        "artifical_flavourings": null,
+                        "artifical_flavour_enhancers": "No",
+                        "artifical_preservatives": "No",
+                        "artifical_sweeteners": "No"
+                    },
+                    "diets": {
+                        "vegetarian_suitable": "Yes",
+                        "vegan_suitable": "No",
+                        "lactose_intolerance_suitable": "No",
+                        "coeliacs_suitable": "No",
+                        "halal_approved": "No",
+                        "kosher_approved": "No",
+                        "hfss_product": "Yes"
+                    },
+                    "nutrients": {
+                        "serving": {
+                            "value": null,
+                            "unit": "g or ml"
+                        },
+                        "pieces_slices_100g": {
+                            "value": null,
+                            "unit": "Pieces"
+                        },
+                        "count_per_pack": null,
+                        "cal_100_kj": {
+                            "value": 1858.0,
+                            "unit": "kJ"
+                        },
+                        "cal_100_kcal": {
+                            "value": 442.0,
+                            "unit": "kcal"
+                        },
+                        "fat_100": {
+                            "value": 17.0,
+                            "unit": "g"
+                        },
+                        "sat_fat_100": {
+                            "value": 9.3,
+                            "unit": "g"
+                        },
+                        "mono_fat_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "poly_fat_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "trans_fats_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "carb_100": {
+                            "value": 63.7,
+                            "unit": "g"
+                        },
+                        "sugar_carb_100": {
+                            "value": 14.6,
+                            "unit": "g"
+                        },
+                        "polyols_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "starch_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "fibre_100": {
+                            "value": 0.9,
+                            "unit": "g"
+                        },
+                        "protein_100": {
+                            "value": 8.0,
+                            "unit": "g"
+                        },
+                        "salt_100": {
+                            "value": 4.95,
+                            "unit": "g"
+                        },
+                        "sodium_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "vitamin_a_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "vitamin_c_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "folate_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "calcium_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "iron_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "zinc_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "chol_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "non_milk_extrinsic_sugars_100g": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "alcohol_strength_per_vol": {
+                            "value": null,
+                            "unit": "% Vol"
+                        },
+                        "fat_percentage_dry": {
+                            "value": null,
+                            "unit": "g"
+                        }
+                    },
+                    "country_of_origin": {
+                        "country": "Germany",
+                        "details": null
+                    },
+                    "derived_values": {
+                        "gluten_free": "No",
+                        "formatted_ingredients": "Ingredients: modified starch, <b>WHEAT</b> flour, palm fat, maltodextrin, skimmed <b>MILK</b> powder, sugar, iodised salt (salt, potassium iodate), <b>lactose</b> (<b>MILK</b>), <b>MILK</b> protein, palm oil, yeast extract, flavourings (<b>MILK</b>), acid (citric acid), salt, onion."
+                    }
+                }
+            ],
+            "last_updated_by_supplier": "2023-09-12",
+            "last_updated": "2023-09-12",
+            "uri": "https://services.erudus.com/api/public/v1/products/76e2af7a95c642faa751902919aae9d4"
+        },
+        {
+            "id": "f476a47dcd6c4fdbb99e8ebe08e87b46",
+            "status": "active",
+            "source": "erudus",
+            "is_complete": 1,
+            "product_code": "BB51",
+            "case_label_name": "Natural Battered Onions Greens 6 x 1 kg",
+            "product_name": "Battered Onions",
+            "product_description": "Natural Battered Onions Greens",
+            "supplier_id": 28,
+            "supplier_name": "D'Arta S.A.",
+            "suppliers_product_code": "51176999",
+            "brand_name": "D'Arta S.A.",
+            "food_drink": "Food",
+            "category": "Frozen",
+            "generic_type": "Vegetable",
+            "traded_unit_gtin": "5413408695115",
+            "components": [
+                {
+                    "id": "9061693fe90c48ca9c7581ad259030d9",
+                    "component_name": null,
+                    "suppliers_component_code": null,
+                    "internal_gtin": "5413408913080",
+                    "ingredients": "Onion (40)%, WHEAT flour, sunflower oil, starch (WHEAT, corn, tapioca), salt, dextrose, yeast, raising agents (E450, E500), thickeners (E407, E412)",
+                    "allergens": {
+                        "contains_gm_protein": "No",
+                        "contains_celery_celeriac": "No",
+                        "contains_lupin": "No",
+                        "contains_eggs": "No",
+                        "contains_fish": "No",
+                        "contains_soybeans": "No",
+                        "contains_milk": "No",
+                        "contains_mustard": "No",
+                        "contains_peanuts": "No",
+                        "contains_sesame_seeds": "No",
+                        "contains_crustacea": "No",
+                        "contains_molluscs": "No",
+                        "contains_tree_nuts": "No",
+                        "contains_alomond_nuts": "No",
+                        "contains_hazelnut_nuts": "No",
+                        "contains_walnut_nuts": "No",
+                        "contains_cashew_nuts": "No",
+                        "contains_pecan_nuts": "No",
+                        "contains_brazil_nuts": "No",
+                        "contains_pistachio_nuts": "No",
+                        "contains_macadamia_nuts": "No",
+                        "contains_queensland_nuts": "No",
+                        "contains_cereal": "Yes",
+                        "contains_wheat": "Yes",
+                        "contains_rye": "No",
+                        "contains_barley": "No",
+                        "contains_oats": "No",
+                        "contains_spelt": "No",
+                        "contains_kamut": "No",
+                        "gluten_claim": "No",
+                        "contains_hydro_veg": "No",
+                        "contains_palm_oil": "No",
+                        "contains_sulphur_dioxide": "No",
+                        "sulphur_dioxide_sulphites_concentration": {
+                            "value": 0.0,
+                            "unit": "mg/kg"
+                        },
+                        "allergen_statement": "",
+                        "contains_gluten": "-"
+                    },
+                    "artificial": {
+                        "artificial_antioxidants": "No",
+                        "artificial_colours": "No",
+                        "artifical_flavourings": "No",
+                        "artifical_flavour_enhancers": "No",
+                        "artifical_preservatives": "No",
+                        "artifical_sweeteners": "No"
+                    },
+                    "diets": {
+                        "vegetarian_suitable": "Yes",
+                        "vegan_suitable": "Yes",
+                        "lactose_intolerance_suitable": "Yes",
+                        "coeliacs_suitable": "No",
+                        "halal_approved": "No",
+                        "kosher_approved": "No",
+                        "hfss_product": "No"
+                    },
+                    "nutrients": {
+                        "serving": {
+                            "value": 100.0,
+                            "unit": "g or ml"
+                        },
+                        "pieces_slices_100g": {
+                            "value": 0.0,
+                            "unit": "Pieces"
+                        },
+                        "count_per_pack": null,
+                        "cal_100_kj": {
+                            "value": 904.0,
+                            "unit": "kJ"
+                        },
+                        "cal_100_kcal": {
+                            "value": 216.0,
+                            "unit": "kcal"
+                        },
+                        "fat_100": {
+                            "value": 11.0,
+                            "unit": "g"
+                        },
+                        "sat_fat_100": {
+                            "value": 1.4,
+                            "unit": "g"
+                        },
+                        "mono_fat_100": {
+                            "value": 2.7,
+                            "unit": "g"
+                        },
+                        "poly_fat_100": {
+                            "value": 6.7,
+                            "unit": "g"
+                        },
+                        "trans_fats_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "carb_100": {
+                            "value": 25.3,
+                            "unit": "g"
+                        },
+                        "sugar_carb_100": {
+                            "value": 2.5,
+                            "unit": "g"
+                        },
+                        "polyols_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "starch_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "fibre_100": {
+                            "value": 2.0,
+                            "unit": "g"
+                        },
+                        "protein_100": {
+                            "value": 3.0,
+                            "unit": "g"
+                        },
+                        "salt_100": {
+                            "value": 1.2,
+                            "unit": "g"
+                        },
+                        "sodium_100": {
+                            "value": 0.48,
+                            "unit": "g"
+                        },
+                        "vitamin_a_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "vitamin_c_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "folate_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "calcium_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "iron_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "zinc_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "chol_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "non_milk_extrinsic_sugars_100g": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "alcohol_strength_per_vol": {
+                            "value": null,
+                            "unit": "% Vol"
+                        },
+                        "fat_percentage_dry": {
+                            "value": null,
+                            "unit": "g"
+                        }
+                    },
+                    "country_of_origin": {
+                        "country": "Netherlands (the)",
+                        "details": "n/a"
+                    },
+                    "derived_values": {
+                        "gluten_free": "No",
+                        "formatted_ingredients": "Onion (40)%, <b>WHEAT</b> flour, sunflower oil, starch (<b>WHEAT</b>, corn, tapioca), salt, dextrose, yeast, raising agents (E450, E500), thickeners (E407, E412)"
+                    }
+                }
+            ],
+            "last_updated_by_supplier": "2023-09-12",
+            "last_updated": "2023-09-12",
+            "uri": "https://services.erudus.com/api/public/v1/products/f476a47dcd6c4fdbb99e8ebe08e87b46"
+        },
+        {
+            "id": "2b4067a284aa4b32926b21dbcd88a6a4",
+            "status": "active",
+            "source": "erudus",
+            "is_complete": 1,
+            "product_code": "2186",
+            "case_label_name": "(20) Proper Cornish Frozen 283g Traditional Steak Pasty",
+            "product_name": "Traditional Steak Pasty",
+            "product_description": "A traditional Cornish Pasty consisting of fresh vegetables layered with diced beef encased in a pre-glazed, hand crimped pastry case.  Unbaked.  PGI status",
+            "supplier_id": 462,
+            "supplier_name": "Proper Cornish Food Company",
+            "suppliers_product_code": "46028",
+            "brand_name": "Proper Cornish Food Company",
+            "food_drink": "Food",
+            "category": "Frozen",
+            "generic_type": "Pies, Sausages Rolls, Savouries",
+            "traded_unit_gtin": "05023281460283",
+            "components": [
+                {
+                    "id": "2783b13611174b46a60875b6aad7b03a",
+                    "component_name": null,
+                    "suppliers_component_code": null,
+                    "internal_gtin": null,
+                    "ingredients": "WHEAT Flour (WHEAT Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Potato, Beef (12.5%), Vegetable Margarine (Vegetable Oils and Fats [Palm], Water, Salt, Lemon Juice), Water, Swede, Onion, White Shortening (Vegetable Oils and Fats [Palm, Rapeseed], Water, Salt, Lemon Juice), Salt, Dehydrated Potato Flake (Potato, Emulsifier [Mono and Diglycerides]), White Pepper, Black Pepper, Glaze (MILK Protein, Dextrose, Vegetable Oil)",
+                    "allergens": {
+                        "contains_gm_protein": "No",
+                        "contains_celery_celeriac": "No",
+                        "contains_lupin": "No",
+                        "contains_eggs": "No",
+                        "contains_fish": "No",
+                        "contains_soybeans": "No",
+                        "contains_milk": "Yes",
+                        "contains_mustard": "No",
+                        "contains_peanuts": "No",
+                        "contains_sesame_seeds": "No",
+                        "contains_crustacea": "No",
+                        "contains_molluscs": "No",
+                        "contains_tree_nuts": "No",
+                        "contains_alomond_nuts": "No",
+                        "contains_hazelnut_nuts": "No",
+                        "contains_walnut_nuts": "No",
+                        "contains_cashew_nuts": "No",
+                        "contains_pecan_nuts": "No",
+                        "contains_brazil_nuts": "No",
+                        "contains_pistachio_nuts": "No",
+                        "contains_macadamia_nuts": "No",
+                        "contains_queensland_nuts": "No",
+                        "contains_cereal": "Yes",
+                        "contains_wheat": "Yes",
+                        "contains_rye": "No",
+                        "contains_barley": "No",
+                        "contains_oats": "No",
+                        "contains_spelt": "No",
+                        "contains_kamut": "No",
+                        "gluten_claim": "No",
+                        "contains_hydro_veg": "No",
+                        "contains_palm_oil": "Yes",
+                        "contains_sulphur_dioxide": "No",
+                        "sulphur_dioxide_sulphites_concentration": {
+                            "value": 0.0,
+                            "unit": "mg/kg"
+                        },
+                        "allergen_statement": "",
+                        "contains_gluten": "-"
+                    },
+                    "artificial": {
+                        "artificial_antioxidants": "No",
+                        "artificial_colours": "No",
+                        "artifical_flavourings": "No",
+                        "artifical_flavour_enhancers": "No",
+                        "artifical_preservatives": "No",
+                        "artifical_sweeteners": "No"
+                    },
+                    "diets": {
+                        "vegetarian_suitable": "No",
+                        "vegan_suitable": "No",
+                        "lactose_intolerance_suitable": "No",
+                        "coeliacs_suitable": "No",
+                        "halal_approved": "No",
+                        "kosher_approved": "No",
+                        "hfss_product": null
+                    },
+                    "nutrients": {
+                        "serving": {
+                            "value": 255.0,
+                            "unit": "g or ml"
+                        },
+                        "pieces_slices_100g": {
+                            "value": null,
+                            "unit": "Pieces"
+                        },
+                        "count_per_pack": null,
+                        "cal_100_kj": {
+                            "value": 1016.0,
+                            "unit": "kJ"
+                        },
+                        "cal_100_kcal": {
+                            "value": 242.0,
+                            "unit": "kcal"
+                        },
+                        "fat_100": {
+                            "value": 12.5,
+                            "unit": "g"
+                        },
+                        "sat_fat_100": {
+                            "value": 6.5,
+                            "unit": "g"
+                        },
+                        "mono_fat_100": {
+                            "value": 1.7,
+                            "unit": "g"
+                        },
+                        "poly_fat_100": {
+                            "value": 0.2,
+                            "unit": "g"
+                        },
+                        "trans_fats_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "carb_100": {
+                            "value": 27.8,
+                            "unit": "g"
+                        },
+                        "sugar_carb_100": {
+                            "value": 1.1,
+                            "unit": "g"
+                        },
+                        "polyols_carb_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "starch_carb_100": {
+                            "value": 26.6,
+                            "unit": "g"
+                        },
+                        "fibre_100": {
+                            "value": 1.8,
+                            "unit": "g"
+                        },
+                        "protein_100": {
+                            "value": 5.6,
+                            "unit": "g"
+                        },
+                        "salt_100": {
+                            "value": 0.88,
+                            "unit": "g"
+                        },
+                        "sodium_100": {
+                            "value": 0.35,
+                            "unit": "g"
+                        },
+                        "vitamin_a_100g": {
+                            "value": 4.0,
+                            "unit": "µg"
+                        },
+                        "vitamin_c_100g": {
+                            "value": 5.0,
+                            "unit": "mg"
+                        },
+                        "folate_100g": {
+                            "value": 12.0,
+                            "unit": "µg"
+                        },
+                        "calcium_100g": {
+                            "value": 35.0,
+                            "unit": "mg"
+                        },
+                        "iron_100g": {
+                            "value": 0.9,
+                            "unit": "mg"
+                        },
+                        "zinc_100g": {
+                            "value": 0.7,
+                            "unit": "mg"
+                        },
+                        "chol_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "non_milk_extrinsic_sugars_100g": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "alcohol_strength_per_vol": {
+                            "value": null,
+                            "unit": "% Vol"
+                        },
+                        "fat_percentage_dry": {
+                            "value": null,
+                            "unit": "g"
+                        }
+                    },
+                    "country_of_origin": {
+                        "country": "United Kingdom",
+                        "details": "N/A"
+                    },
+                    "derived_values": {
+                        "gluten_free": "No",
+                        "formatted_ingredients": "<b>WHEAT</b> Flour (<b>WHEAT</b> Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Potato, Beef (12.5%), Vegetable Margarine (Vegetable Oils and Fats [Palm], Water, Salt, Lemon Juice), Water, Swede, Onion, White Shortening (Vegetable Oils and Fats [Palm, Rapeseed], Water, Salt, Lemon Juice), Salt, Dehydrated Potato Flake (Potato, Emulsifier [Mono and Diglycerides]), White Pepper, Black Pepper, Glaze (<b>MILK</b> Protein, Dextrose, Vegetable Oil)"
+                    }
+                }
+            ],
+            "last_updated_by_supplier": "2023-09-11",
+            "last_updated": "2023-09-11",
+            "uri": "https://services.erudus.com/api/public/v1/products/2b4067a284aa4b32926b21dbcd88a6a4"
+        },
+        {
+            "id": "70f30c59ce6c444094c9848b0b6bafdd",
+        "status": "active",
+        "source": "erudus",
+        "is_complete": 1,
+        "product_code": "7023",
+        "case_label_name": "(20) Frozen 283g Cheese/Onion",
+        "product_name": "Cheese & Onion Pasty",
+        "product_description": "Fresh potato, onion and cheddar cheese encased in a pre-glazed, hand crimped pastry case.  Unbaked. Suitable for vegetarians.",
+        "supplier_id": 462,
+        "supplier_name": "Proper Cornish Food Company",
+        "suppliers_product_code": "46207",
+        "brand_name": "Proper Cornish Food Company",
+        "food_drink": "Food",
+        "category": "Frozen",
+        "generic_type": "Pies, Sausages Rolls, Savouries",
+        "traded_unit_gtin": "05023281462072",
+        "components": [
+            {
+                "id": "bd75e70498d74b44911e062d4b901be8",
+                "component_name": null,
+                "suppliers_component_code": null,
+                "internal_gtin": null,
+                "ingredients": "Potato, WHEAT Flour (WHEAT Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Onion (10%), Vegetable Margarine (Vegetable Oils and Fats [Palm], Water, Salt, Lemon Juice), Water, Cheddar Cheese [MILK] (8%), White Shortening (Vegetable Oils and Fats [Palm, Rapeseed], Water, Salt, Lemon Juice), Salt, Dehydrated Potato Flake (Potato, Emulsifier [Mono and Diglycerides]), Modified Potato Starch, Glaze (MILK Protein, Dextrose, Vegetable Oil), Black Pepper, White Pepper",
+                "allergens": {
+                    "contains_gm_protein": "No",
+                    "contains_celery_celeriac": "No",
+                    "contains_lupin": "No",
+                    "contains_eggs": "No",
+                    "contains_fish": "No",
+                    "contains_soybeans": "No",
+                    "contains_milk": "Yes",
+                    "contains_mustard": "No",
+                    "contains_peanuts": "No",
+                    "contains_sesame_seeds": "No",
+                    "contains_crustacea": "No",
+                    "contains_molluscs": "No",
+                    "contains_tree_nuts": "No",
+                    "contains_alomond_nuts": "No",
+                    "contains_hazelnut_nuts": "No",
+                    "contains_walnut_nuts": "No",
+                    "contains_cashew_nuts": "No",
+                    "contains_pecan_nuts": "No",
+                    "contains_brazil_nuts": "No",
+                    "contains_pistachio_nuts": "No",
+                    "contains_macadamia_nuts": "No",
+                    "contains_queensland_nuts": "No",
+                    "contains_cereal": "Yes",
+                    "contains_wheat": "Yes",
+                    "contains_rye": "No",
+                    "contains_barley": "No",
+                    "contains_oats": "No",
+                    "contains_spelt": "No",
+                    "contains_kamut": "No",
+                    "gluten_claim": "No",
+                    "contains_hydro_veg": "No",
+                    "contains_palm_oil": "Yes",
+                    "contains_sulphur_dioxide": "No",
+                    "sulphur_dioxide_sulphites_concentration": {
+                        "value": 0.0,
+                        "unit": "mg/kg"
+                    },
+                    "allergen_statement": "",
+                    "contains_gluten": "-"
+                },
+                "artificial": {
+                    "artificial_antioxidants": "No",
+                    "artificial_colours": "No",
+                    "artifical_flavourings": "No",
+                    "artifical_flavour_enhancers": "No",
+                    "artifical_preservatives": "No",
+                    "artifical_sweeteners": "No"
+                },
+                "diets": {
+                    "vegetarian_suitable": "Yes",
+                    "vegan_suitable": "No",
+                    "lactose_intolerance_suitable": "No",
+                    "coeliacs_suitable": "No",
+                    "halal_approved": "No",
+                    "kosher_approved": "No",
+                    "hfss_product": null
+                },
+                "nutrients": {
+                    "serving": {
+                        "value": null,
+                        "unit": "g or ml"
+                    },
+                    "pieces_slices_100g": {
+                        "value": null,
+                        "unit": "Pieces"
+                    },
+                    "count_per_pack": null,
+                    "cal_100_kj": {
+                        "value": 1086.0,
+                        "unit": "kJ"
+                    },
+                    "cal_100_kcal": {
+                        "value": 259.0,
+                        "unit": "kcal"
+                    },
+                    "fat_100": {
+                        "value": 13.9,
+                        "unit": "g"
+                    },
+                    "sat_fat_100": {
+                        "value": 7.7,
+                        "unit": "g"
+                    },
+                    "mono_fat_100": {
+                        "value": 1.9,
+                        "unit": "g"
+                    },
+                    "poly_fat_100": {
+                        "value": 0.2,
+                        "unit": "g"
+                    },
+                    "trans_fats_100": {
+                        "value": 0.1,
+                        "unit": "g"
+                    },
+                    "carb_100": {
+                        "value": 29.0,
+                        "unit": "g"
+                    },
+                    "sugar_carb_100": {
+                        "value": 1.1,
+                        "unit": "g"
+                    },
+                    "polyols_carb_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "starch_carb_100": {
+                        "value": 27.3,
+                        "unit": "g"
+                    },
+                    "fibre_100": {
+                        "value": 1.8,
+                        "unit": "g"
+                    },
+                    "protein_100": {
+                        "value": 5.75,
+                        "unit": "g"
+                    },
+                    "salt_100": {
+                        "value": 0.93,
+                        "unit": "g"
+                    },
+                    "sodium_100": {
+                        "value": 0.37,
+                        "unit": "g"
+                    },
+                    "vitamin_a_100g": {
+                        "value": 34.0,
+                        "unit": "µg"
+                    },
+                    "vitamin_c_100g": {
+                        "value": 4.0,
+                        "unit": "mg"
+                    },
+                    "folate_100g": {
+                        "value": 12.0,
+                        "unit": "µg"
+                    },
+                    "calcium_100g": {
+                        "value": 97.0,
+                        "unit": "mg"
+                    },
+                    "iron_100g": {
+                        "value": 0.7,
+                        "unit": "mg"
+                    },
+                    "zinc_100g": {
+                        "value": 0.7,
+                        "unit": "mg"
+                    },
+                    "chol_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "non_milk_extrinsic_sugars_100g": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "alcohol_strength_per_vol": {
+                        "value": null,
+                        "unit": "% Vol"
+                    },
+                    "fat_percentage_dry": {
+                        "value": null,
+                        "unit": "g"
+                    }
+                },
+                "country_of_origin": {
+                    "country": "United Kingdom",
+                    "details": "N/A"
+                },
+                "derived_values": {
+                    "gluten_free": "No",
+                    "formatted_ingredients": "Potato, <b>WHEAT</b> Flour (<b>WHEAT</b> Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Onion (10%), Vegetable Margarine (Vegetable Oils and Fats [Palm], Water, Salt, Lemon Juice), Water, <b>Cheddar</b> <b>Cheese</b> [<b>MILK</b>] (8%), White Shortening (Vegetable Oils and Fats [Palm, Rapeseed], Water, Salt, Lemon Juice), Salt, Dehydrated Potato Flake (Potato, Emulsifier [Mono and Diglycerides]), Modified Potato Starch, Glaze (<b>MILK</b> Protein, Dextrose, Vegetable Oil), Black Pepper, White Pepper"
+                }
+            }
+        ],
+        "last_updated_by_supplier": "2023-09-11",
+        "last_updated": "2023-09-11",
+        "uri": "https://services.erudus.com/api/public/v1/products/70f30c59ce6c444094c9848b0b6bafdd"
+        },
+        {
+            "id": "22cfcc2eb0a94c23950c758114520452",
+        "status": "active",
+        "source": "erudus",
+        "is_complete": 1,
+        "product_code": "9871",
+        "case_label_name": "Frozen Raw HAND CUT PANKO COATED SQUID RINGS",
+        "product_name": "PANKO COATED SQUID RINGS",
+        "product_description": "Frozen raw premium squid rings in a coarse Japanese breadcrumb",
+        "supplier_id": 581,
+        "supplier_name": "Pacific West Foods",
+        "suppliers_product_code": "PCS23PW",
+        "brand_name": "Pacific West Foods",
+        "food_drink": "Food",
+        "category": "Frozen",
+        "generic_type": "Scampi, Prawns & Seafood",
+        "traded_unit_gtin": "39555018504009",
+        "components": [
+            {
+                "id": "41bca00ec1b9412192c4a0e95a1478a4",
+                "component_name": null,
+                "suppliers_component_code": null,
+                "internal_gtin": "9555018504060",
+                "ingredients": "Squid (MOLLUSCS) (60%), Breadcrumb (20%) [WHEAT Flour, Palm Oil, Sugar, Salt], Batter (20%) [WHEAT Flour, Water, Thickeners (E1404, E1420), Sugar, Garlic, Raising Agents (E450, E500), Pepper,  Salt, Yeast Extract].",
+                "allergens": {
+                    "contains_gm_protein": "No",
+                    "contains_celery_celeriac": "No",
+                    "contains_lupin": "No",
+                    "contains_eggs": "No",
+                    "contains_fish": "May Contain",
+                    "contains_soybeans": "May Contain",
+                    "contains_milk": "May Contain",
+                    "contains_mustard": "No",
+                    "contains_peanuts": "No",
+                    "contains_sesame_seeds": "No",
+                    "contains_crustacea": "May Contain",
+                    "contains_molluscs": "Yes",
+                    "contains_tree_nuts": "No",
+                    "contains_alomond_nuts": "No",
+                    "contains_hazelnut_nuts": "No",
+                    "contains_walnut_nuts": "No",
+                    "contains_cashew_nuts": "No",
+                    "contains_pecan_nuts": "No",
+                    "contains_brazil_nuts": "No",
+                    "contains_pistachio_nuts": "No",
+                    "contains_macadamia_nuts": "No",
+                    "contains_queensland_nuts": "No",
+                    "contains_cereal": "Yes",
+                    "contains_wheat": "Yes",
+                    "contains_rye": "No",
+                    "contains_barley": "No",
+                    "contains_oats": "No",
+                    "contains_spelt": "No",
+                    "contains_kamut": "No",
+                    "gluten_claim": "No",
+                    "contains_hydro_veg": "No",
+                    "contains_palm_oil": "Yes",
+                    "contains_sulphur_dioxide": "No",
+                    "sulphur_dioxide_sulphites_concentration": {
+                        "value": 0.0,
+                        "unit": "mg/kg"
+                    },
+                    "allergen_statement": "For allergens, including cereals containing gluten, see ingredients in bold.",
+                    "contains_gluten": "-"
+                },
+                "artificial": {
+                    "artificial_antioxidants": "No",
+                    "artificial_colours": "No",
+                    "artifical_flavourings": "No",
+                    "artifical_flavour_enhancers": "No",
+                    "artifical_preservatives": "No",
+                    "artifical_sweeteners": "No"
+                },
+                "diets": {
+                    "vegetarian_suitable": "No",
+                    "vegan_suitable": "No",
+                    "lactose_intolerance_suitable": "No",
+                    "coeliacs_suitable": "No",
+                    "halal_approved": "Yes",
+                    "kosher_approved": "No",
+                    "hfss_product": "No"
+                },
+                "nutrients": {
+                    "serving": {
+                        "value": null,
+                        "unit": "g or ml"
+                    },
+                    "pieces_slices_100g": {
+                        "value": null,
+                        "unit": "Pieces"
+                    },
+                    "count_per_pack": null,
+                    "cal_100_kj": {
+                        "value": 520.0,
+                        "unit": "kJ"
+                    },
+                    "cal_100_kcal": {
+                        "value": 123.0,
+                        "unit": "kcal"
+                    },
+                    "fat_100": {
+                        "value": 1.1,
+                        "unit": "g"
+                    },
+                    "sat_fat_100": {
+                        "value": 0.6,
+                        "unit": "g"
+                    },
+                    "mono_fat_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "poly_fat_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "trans_fats_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "carb_100": {
+                        "value": 20.4,
+                        "unit": "g"
+                    },
+                    "sugar_carb_100": {
+                        "value": 3.1,
+                        "unit": "g"
+                    },
+                    "polyols_carb_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "starch_carb_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "fibre_100": {
+                        "value": 1.0,
+                        "unit": "g"
+                    },
+                    "protein_100": {
+                        "value": 7.3,
+                        "unit": "g"
+                    },
+                    "salt_100": {
+                        "value": 0.5,
+                        "unit": "g"
+                    },
+                    "sodium_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "vitamin_a_100g": {
+                        "value": null,
+                        "unit": "µg"
+                    },
+                    "vitamin_c_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "folate_100g": {
+                        "value": null,
+                        "unit": "µg"
+                    },
+                    "calcium_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "iron_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "zinc_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "chol_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "non_milk_extrinsic_sugars_100g": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "alcohol_strength_per_vol": {
+                        "value": null,
+                        "unit": "% Vol"
+                    },
+                    "fat_percentage_dry": {
+                        "value": null,
+                        "unit": "g"
+                    }
+                },
+                "country_of_origin": {
+                    "country": "Malaysia",
+                    "details": "Produced in  Malaysia"
+                },
+                "derived_values": {
+                    "gluten_free": "No",
+                    "formatted_ingredients": "<b>Squid</b> (<b>MOLLUSCS</b>) (60%), Breadcrumb (20%) [<b>WHEAT</b> Flour, Palm Oil, Sugar, Salt], Batter (20%) [<b>WHEAT</b> Flour, Water, Thickeners (E1404, E1420), Sugar, Garlic, Raising Agents (E450, E500), Pepper,  Salt, Yeast Extract]."
+                }
+            }
+        ],
+        "last_updated_by_supplier": "2023-09-06",
+        "last_updated": "2023-09-06",
+        "uri": "https://services.erudus.com/api/public/v1/products/22cfcc2eb0a94c23950c758114520452"
+        },
+        {
+            "id": "4419006273ad4b84a3ca0628d5d8b75b",
+        "status": "active",
+        "source": "erudus",
+        "is_complete": 1,
+        "product_code": "87827",
+        "case_label_name": "SOPHIE’S ANGEL SPARKLE CAKE",
+        "product_name": "SOPHIE’S ANGEL SPARKLE CAKE",
+        "product_description": "A three-layer moist sponge cake comprising of marble layers sandwiched one with strawberry jam and other with sweet buttercream. Smothered in buttercream and finished with a sprinkling of colourful crunchy spheres. This gateau is pre-portioned into 14 portions and packed 1 gateau per outer.",
+        "supplier_id": 26,
+        "supplier_name": "CDT Sidoli (Welshpool) Ltd",
+        "suppliers_product_code": "59115",
+        "brand_name": "CDT Sidoli (Welshpool) Ltd",
+        "food_drink": "Food",
+        "category": "Frozen",
+        "generic_type": "Desserts",
+        "traded_unit_gtin": "5015091591158",
+        "components": [
+            {
+                "id": "2c0f1c62d4fd4b7b8cff378dd0d66ba5",
+                "component_name": null,
+                "suppliers_component_code": null,
+                "internal_gtin": null,
+                "ingredients": "Sugar, WHEAT flour (with added calcium, iron, niacin, thiamin), rapeseed oil, EGG, sugar strands (sugar, glucose syrup, water, beetroot concentrate, glazing agent (shellac), colours (anthocyanin, curcumin)), butter (MILK), margarine (palm oil, rapeseed oil, water, emulsifier (mono- and diglycerides of fatty acids), natural flavouring), strawberry jam (4%) (glucose-fructose syrup, strawberries, sugar, gelling agent (pectins), colour (anthocyanin), acidity regulators (sodium citrates, citric acid), natural flavouring), emulsifier (glycerol), raising agents (diphosphates, sodium bicarbonate), modified maize starch, colours (carmine, curcumin), natural flavouring.",
+                "allergens": {
+                    "contains_gm_protein": "No",
+                    "contains_celery_celeriac": "No",
+                    "contains_lupin": "No",
+                    "contains_eggs": "Yes",
+                    "contains_fish": "No",
+                    "contains_soybeans": "No",
+                    "contains_milk": "Yes",
+                    "contains_mustard": "No",
+                    "contains_peanuts": "No",
+                    "contains_sesame_seeds": "No",
+                    "contains_crustacea": "No",
+                    "contains_molluscs": "No",
+                    "contains_tree_nuts": "May Contain",
+                    "contains_alomond_nuts": "May Contain",
+                    "contains_hazelnut_nuts": "May Contain",
+                    "contains_walnut_nuts": "May Contain",
+                    "contains_cashew_nuts": "No",
+                    "contains_pecan_nuts": "May Contain",
+                    "contains_brazil_nuts": "No",
+                    "contains_pistachio_nuts": "May Contain",
+                    "contains_macadamia_nuts": "No",
+                    "contains_queensland_nuts": "No",
+                    "contains_cereal": "Yes",
+                    "contains_wheat": "Yes",
+                    "contains_rye": "No",
+                    "contains_barley": "May Contain",
+                    "contains_oats": "May Contain",
+                    "contains_spelt": "No",
+                    "contains_kamut": "No",
+                    "gluten_claim": "No",
+                    "contains_hydro_veg": "No",
+                    "contains_palm_oil": "Yes",
+                    "contains_sulphur_dioxide": "No",
+                    "sulphur_dioxide_sulphites_concentration": {
+                        "value": 0.0,
+                        "unit": "mg/kg"
+                    },
+                    "allergen_statement": "MADE IN A FACTORY THAT HANDLES THE FOLLOWING ALLERGEN: NUTS",
+                    "contains_gluten": "-"
+                },
+                "artificial": {
+                    "artificial_antioxidants": "No",
+                    "artificial_colours": "No",
+                    "artifical_flavourings": "No",
+                    "artifical_flavour_enhancers": "No",
+                    "artifical_preservatives": "No",
+                    "artifical_sweeteners": "No"
+                },
+                "diets": {
+                    "vegetarian_suitable": "No",
+                    "vegan_suitable": "No",
+                    "lactose_intolerance_suitable": "No",
+                    "coeliacs_suitable": "No",
+                    "halal_approved": "No",
+                    "kosher_approved": "No",
+                    "hfss_product": "Yes"
+                },
+                "nutrients": {
+                    "serving": {
+                        "value": 135.0,
+                        "unit": "g or ml"
+                    },
+                    "pieces_slices_100g": {
+                        "value": null,
+                        "unit": "Pieces"
+                    },
+                    "count_per_pack": null,
+                    "cal_100_kj": {
+                        "value": 1958.0,
+                        "unit": "kJ"
+                    },
+                    "cal_100_kcal": {
+                        "value": 468.0,
+                        "unit": "kcal"
+                    },
+                    "fat_100": {
+                        "value": 26.0,
+                        "unit": "g"
+                    },
+                    "sat_fat_100": {
+                        "value": 5.7,
+                        "unit": "g"
+                    },
+                    "mono_fat_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "poly_fat_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "trans_fats_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "carb_100": {
+                        "value": 56.0,
+                        "unit": "g"
+                    },
+                    "sugar_carb_100": {
+                        "value": 35.0,
+                        "unit": "g"
+                    },
+                    "polyols_carb_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "starch_carb_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "fibre_100": {
+                        "value": 0.7,
+                        "unit": "g"
+                    },
+                    "protein_100": {
+                        "value": 3.5,
+                        "unit": "g"
+                    },
+                    "salt_100": {
+                        "value": 0.37,
+                        "unit": "g"
+                    },
+                    "sodium_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "vitamin_a_100g": {
+                        "value": null,
+                        "unit": "µg"
+                    },
+                    "vitamin_c_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "folate_100g": {
+                        "value": null,
+                        "unit": "µg"
+                    },
+                    "calcium_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "iron_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "zinc_100g": {
+                        "value": null,
+                        "unit": "mg"
+                    },
+                    "chol_100": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "non_milk_extrinsic_sugars_100g": {
+                        "value": null,
+                        "unit": "g"
+                    },
+                    "alcohol_strength_per_vol": {
+                        "value": null,
+                        "unit": "% Vol"
+                    },
+                    "fat_percentage_dry": {
+                        "value": null,
+                        "unit": "g"
+                    }
+                },
+                "country_of_origin": {
+                    "country": "United Kingdom",
+                    "details": "N/A"
+                },
+                "derived_values": {
+                    "gluten_free": "No",
+                    "formatted_ingredients": "Sugar, <b>WHEAT</b> flour (with added calcium, iron, niacin, thiamin), rapeseed oil, <b>EGG</b>, sugar strands (sugar, glucose syrup, water, beetroot concentrate, glazing agent (shellac), colours (anthocyanin, curcumin)), <b>butter</b> (<b>MILK</b>), margarine (palm oil, rapeseed oil, water, emulsifier (mono- and diglycerides of fatty acids), natural flavouring), strawberry jam (4%) (glucose-fructose syrup, strawberries, sugar, gelling agent (pectins), colour (anthocyanin), acidity regulators (sodium citrates, citric acid), natural flavouring), emulsifier (glycerol), raising agents (diphosphates, sodium bicarbonate), modified maize starch, colours (carmine, curcumin), natural flavouring."
+                }
+            }
+        ],
+        "last_updated_by_supplier": "2023-09-04",
+        "last_updated": "2023-09-04",
+        "uri": "https://services.erudus.com/api/public/v1/products/4419006273ad4b84a3ca0628d5d8b75b"
+        },
+        {
+            "id": "2a9b59cd1c954e2983c0d534e221af4e",
+            "status": "active",
+            "source": "erudus",
+            "is_complete": 1,
+            "product_code": "6282",
+            "case_label_name": "CRAB CAKES",
+            "product_name": "CRAB CAKES",
+            "product_description": "Crab cakes made with brown crabmeat coated with crisp coriander flecked breadcrumbs",
+            "supplier_id": 84,
+            "supplier_name": "Paramount 21 Ltd",
+            "suppliers_product_code": "F0076",
+            "brand_name": "Paramount 21 Ltd",
+            "food_drink": "Food",
+            "category": "Frozen",
+            "generic_type": "Fish",
+            "traded_unit_gtin": "5024030000767",
+            "components": [
+                {
+                    "id": "38333aa2d09449679903c0f2c3313b7e",
+                    "component_name": null,
+                    "suppliers_component_code": null,
+                    "internal_gtin": null,
+                    "ingredients": "WHEAT flour (with calcium, iron, niacin, thiamin), brown crab meat (CRUSTACEANS) (30%), pollack (FISH) (23%), water, salt, coriander, yeast, rapeseed oil, WHEAT starch, potato starch, cayenne pepper, lime juice concentrate, sugar, black pepper.",
+                    "allergens": {
+                        "contains_gm_protein": "No",
+                        "contains_celery_celeriac": "No",
+                        "contains_lupin": "No",
+                        "contains_eggs": "No",
+                        "contains_fish": "Yes",
+                        "contains_soybeans": "No",
+                        "contains_milk": "No",
+                        "contains_mustard": "No",
+                        "contains_peanuts": "No",
+                        "contains_sesame_seeds": "No",
+                        "contains_crustacea": "Yes",
+                        "contains_molluscs": "No",
+                        "contains_tree_nuts": "No",
+                        "contains_alomond_nuts": "No",
+                        "contains_hazelnut_nuts": "No",
+                        "contains_walnut_nuts": "No",
+                        "contains_cashew_nuts": "No",
+                        "contains_pecan_nuts": "No",
+                        "contains_brazil_nuts": "No",
+                        "contains_pistachio_nuts": "No",
+                        "contains_macadamia_nuts": "No",
+                        "contains_queensland_nuts": "No",
+                        "contains_cereal": "Yes",
+                        "contains_wheat": "Yes",
+                        "contains_rye": "No",
+                        "contains_barley": "No",
+                        "contains_oats": "No",
+                        "contains_spelt": "No",
+                        "contains_kamut": "No",
+                        "gluten_claim": null,
+                        "contains_hydro_veg": "No",
+                        "contains_palm_oil": "No",
+                        "contains_sulphur_dioxide": "No",
+                        "sulphur_dioxide_sulphites_concentration": {
+                            "value": 0.0,
+                            "unit": "mg/kg"
+                        },
+                        "allergen_statement": "ALLERGY ADVICE: For allergens, including cereals containing gluten, see ingredients in CAPITALS. \r\nWARNING: Although every care has been taken to remove all bones & pieces of shell, some may remain.",
+                        "contains_gluten": "-"
+                    },
+                    "artificial": {
+                        "artificial_antioxidants": "No",
+                        "artificial_colours": "No",
+                        "artifical_flavourings": "No",
+                        "artifical_flavour_enhancers": "No",
+                        "artifical_preservatives": "No",
+                        "artifical_sweeteners": "No"
+                    },
+                    "diets": {
+                        "vegetarian_suitable": "No",
+                        "vegan_suitable": "No",
+                        "lactose_intolerance_suitable": "Yes",
+                        "coeliacs_suitable": "No",
+                        "halal_approved": "Yes",
+                        "kosher_approved": "No",
+                        "hfss_product": null
+                    },
+                    "nutrients": {
+                        "serving": {
+                            "value": 112.0,
+                            "unit": "g or ml"
+                        },
+                        "pieces_slices_100g": {
+                            "value": 1.7,
+                            "unit": "Pieces"
+                        },
+                        "count_per_pack": null,
+                        "cal_100_kj": {
+                            "value": 844.0,
+                            "unit": "kJ"
+                        },
+                        "cal_100_kcal": {
+                            "value": 199.0,
+                            "unit": "kcal"
+                        },
+                        "fat_100": {
+                            "value": 3.4,
+                            "unit": "g"
+                        },
+                        "sat_fat_100": {
+                            "value": 0.7,
+                            "unit": "g"
+                        },
+                        "mono_fat_100": {
+                            "value": 1.3,
+                            "unit": "g"
+                        },
+                        "poly_fat_100": {
+                            "value": 0.8,
+                            "unit": "g"
+                        },
+                        "trans_fats_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "carb_100": {
+                            "value": 28.9,
+                            "unit": "g"
+                        },
+                        "sugar_carb_100": {
+                            "value": 0.9,
+                            "unit": "g"
+                        },
+                        "polyols_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "starch_carb_100": {
+                            "value": 27.9,
+                            "unit": "g"
+                        },
+                        "fibre_100": {
+                            "value": 1.4,
+                            "unit": "g"
+                        },
+                        "protein_100": {
+                            "value": 11.9,
+                            "unit": "g"
+                        },
+                        "salt_100": {
+                            "value": 1.03,
+                            "unit": "g"
+                        },
+                        "sodium_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "vitamin_a_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "vitamin_c_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "folate_100g": {
+                            "value": null,
+                            "unit": "µg"
+                        },
+                        "calcium_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "iron_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "zinc_100g": {
+                            "value": null,
+                            "unit": "mg"
+                        },
+                        "chol_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "non_milk_extrinsic_sugars_100g": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "alcohol_strength_per_vol": {
+                            "value": null,
+                            "unit": "% Vol"
+                        },
+                        "fat_percentage_dry": {
+                            "value": null,
+                            "unit": "g"
+                        }
+                    },
+                    "country_of_origin": {
+                        "country": "United Kingdom",
+                        "details": "N/A"
+                    },
+                    "derived_values": {
+                        "gluten_free": "No",
+                        "formatted_ingredients": "<b>WHEAT</b> flour (with calcium, iron, niacin, thiamin), brown <b>crab</b> meat (<b>CRUSTACEANS</b>) (30%), <b>pollack</b> (<b>FISH</b>) (23%), water, salt, coriander, yeast, rapeseed oil, <b>WHEAT</b> starch, potato starch, cayenne pepper, lime juice concentrate, sugar, black pepper."
+                    }
+                }
+            ],
+            "last_updated_by_supplier": "2023-09-04",
+            "last_updated": "2023-09-04",
+            "uri": "https://services.erudus.com/api/public/v1/products/2a9b59cd1c954e2983c0d534e221af4e"
+        },
+        {
+            "id": "ca34cd3382ad41beb4d30fa486dbb97d",
+            "status": "active",
+            "source": "erudus",
+            "is_complete": 1,
+            "product_code": "9101",
+            "case_label_name": "Kulana Pure Pineapple Juice From Concentrate 1ltr",
+            "product_name": null,
+            "product_description": "Pineapple Juice From Concentrate",
+            "supplier_id": 369,
+            "supplier_name": "P. Mulrine & Sons",
+            "suppliers_product_code": "141708",
+            "brand_name": "P. Mulrine & Sons",
+            "food_drink": "Drink",
+            "category": "Ambient",
+            "generic_type": "Drinks - Juices",
+            "traded_unit_gtin": "05011064002522",
+            "components": [
+                {
+                    "id": "9be2f1ab11c748a9965ba91f12bb0842",
+                    "component_name": null,
+                    "suppliers_component_code": null,
+                    "internal_gtin": "5011064001655",
+                    "ingredients": "Pineapple Juice from Concentrate (100%)",
+                    "allergens": {
+                        "contains_gm_protein": "No",
+                        "contains_celery_celeriac": "No",
+                        "contains_lupin": "No",
+                        "contains_eggs": "No",
+                        "contains_fish": "No",
+                        "contains_soybeans": "No",
+                        "contains_milk": "No",
+                        "contains_mustard": "No",
+                        "contains_peanuts": "No",
+                        "contains_sesame_seeds": "No",
+                        "contains_crustacea": "No",
+                        "contains_molluscs": "No",
+                        "contains_tree_nuts": "No",
+                        "contains_alomond_nuts": "No",
+                        "contains_hazelnut_nuts": "No",
+                        "contains_walnut_nuts": "No",
+                        "contains_cashew_nuts": "No",
+                        "contains_pecan_nuts": "No",
+                        "contains_brazil_nuts": "No",
+                        "contains_pistachio_nuts": "No",
+                        "contains_macadamia_nuts": "No",
+                        "contains_queensland_nuts": "No",
+                        "contains_cereal": "No",
+                        "contains_wheat": "No",
+                        "contains_rye": "No",
+                        "contains_barley": "No",
+                        "contains_oats": "No",
+                        "contains_spelt": "No",
+                        "contains_kamut": "No",
+                        "gluten_claim": null,
+                        "contains_hydro_veg": "No",
+                        "contains_palm_oil": "No",
+                        "contains_sulphur_dioxide": "No",
+                        "sulphur_dioxide_sulphites_concentration": {
+                            "value": 0.0,
+                            "unit": "mg/litre"
+                        },
+                        "allergen_statement": "",
+                        "contains_gluten": "-"
+                    },
+                    "artificial": {
+                        "artificial_antioxidants": "No",
+                        "artificial_colours": "No",
+                        "artifical_flavourings": "No",
+                        "artifical_flavour_enhancers": "No",
+                        "artifical_preservatives": "No",
+                        "artifical_sweeteners": "No"
+                    },
+                    "diets": {
+                        "vegetarian_suitable": "Yes",
+                        "vegan_suitable": "Yes",
+                        "lactose_intolerance_suitable": "Yes",
+                        "coeliacs_suitable": "No",
+                        "halal_approved": "No",
+                        "kosher_approved": "No",
+                        "hfss_product": null
+                    },
+                    "nutrients": {
+                        "serving": {
+                            "value": null,
+                            "unit": "g or ml"
+                        },
+                        "pieces_slices_100g": {
+                            "value": 0.0,
+                            "unit": "Pieces"
+                        },
+                        "count_per_pack": null,
+                        "cal_100_kj": {
+                            "value": 226.0,
+                            "unit": "kJ"
+                        },
+                        "cal_100_kcal": {
+                            "value": 53.0,
+                            "unit": "kcal"
+                        },
+                        "fat_100": {
+                            "value": 0.4,
+                            "unit": "g"
+                        },
+                        "sat_fat_100": {
+                            "value": 0.1,
+                            "unit": "g"
+                        },
+                        "mono_fat_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "poly_fat_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "trans_fats_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "carb_100": {
+                            "value": 13.0,
+                            "unit": "g"
+                        },
+                        "sugar_carb_100": {
+                            "value": 13.0,
+                            "unit": "g"
+                        },
+                        "polyols_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "starch_carb_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "fibre_100": {
+                            "value": 0.4,
+                            "unit": "g"
+                        },
+                        "protein_100": {
+                            "value": 0.4,
+                            "unit": "g"
+                        },
+                        "salt_100": {
+                            "value": 0.01,
+                            "unit": "g"
+                        },
+                        "sodium_100": {
+                            "value": null,
+                            "unit": "g"
+                        },
+                        "vitamin_a_100g": {
+                            "value": 0.0,
+                            "unit": "µg"
+                        },
+                        "vitamin_c_100g": {
+                            "value": 0.0,
+                            "unit": "mg"
+                        },
+                        "folate_100g": {
+                            "value": 0.0,
+                            "unit": "µg"
+                        },
+                        "calcium_100g": {
+                            "value": 0.0,
+                            "unit": "mg"
+                        },
+                        "iron_100g": {
+                            "value": 0.0,
+                            "unit": "mg"
+                        },
+                        "zinc_100g": {
+                            "value": 0.0,
+                            "unit": "mg"
+                        },
+                        "chol_100": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "non_milk_extrinsic_sugars_100g": {
+                            "value": 0.0,
+                            "unit": "g"
+                        },
+                        "alcohol_strength_per_vol": {
+                            "value": null,
+                            "unit": "% Vol"
+                        },
+                        "fat_percentage_dry": {
+                            "value": 0.0,
+                            "unit": "g"
+                        }
+                    },
+                    "country_of_origin": {
+                        "country": "Ireland",
+                        "details": "N/A"
+                    },
+                    "derived_values": {
+                        "gluten_free": "Yes",
+                        "formatted_ingredients": "Pineapple Juice from Concentrate (100%)"
+                    }
+                }
+            ],
+            "last_updated_by_supplier": "2023-09-04",
+            "last_updated": "2023-09-04",
+            "uri": "https://services.erudus.com/api/public/v1/products/ca34cd3382ad41beb4d30fa486dbb97d"
+        }
+    ]
+}
