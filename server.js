@@ -55,7 +55,7 @@ app.post('/api/access_token', (req, res) =>{
     let accessToken ='';
     console.log(client_id)
     console.log(client_secret)
-    res.send("API works")
+
     
     try{
 
